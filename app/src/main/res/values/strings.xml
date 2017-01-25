@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDb</string>
+    <string name="pop_name">Movies</string>
+    <string name="detail_name">Movies detail</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>

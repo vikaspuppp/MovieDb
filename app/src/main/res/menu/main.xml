@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/popular_movies"
+        app:showAsAction="never"
+        android:title="Popular Movies"/>
+    <item
+        android:id="@+id/high_rate"
+        app:showAsAction="never"
+        android:title="Highest rating"/>
+
+</menu>
